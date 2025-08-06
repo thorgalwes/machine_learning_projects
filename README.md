@@ -56,6 +56,7 @@ python3 food_project.py
 
 ```
 datasets/          Contains source and reshaped .csv files from the datasets.
+datasets_src/      Local dataset files.
 food_project/      Food dataset analysis using U.S. Department of Agriculture data.
 housing_project/   Housing project from "Hands-On Machine Learning" by Aurélien Géron.
 img/               Visualization images generated using Matplotlib.
