@@ -18,7 +18,7 @@ The dataset was acquired from the author of the book: raw.githubusercontent.com/
 
 ---
 
-# Run
+# Environment Setup
 
 ### 1. Dependencies
 - [Python](https://www.python.org/downloads/)
