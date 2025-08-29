@@ -21,11 +21,12 @@ The dataset was acquired from the author of the book: raw.githubusercontent.com/
 # Run
 
 ### 1. Dependencies
-- Python, venv, pip and python packages 
+- [Python](https://www.python.org/downloads/)
+- Python Packages: matplotlib, numpy, pandas, scipy, scikit-learn, joblib
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/weslleyskah/machine_learning_projects.git
+git clone https://github.com/thorgalwulf/machine_learning_projects.git
 ```
 
 ### 3. Navigate to the Repository
@@ -34,6 +35,21 @@ cd machine_learning_projects
 ```
 
 ### 4. Create and Activate a Virtual Environment and Install Python Packages
+- Windows
+```bash
+# Create a virtual environment named 'venv'
+python -m venv venv
+
+# Activate the virtual environment
+venv\Scripts\activate.bat
+
+# Install the specified packages
+pip install matplotlib numpy pandas scipy scikit-learn joblib
+
+# Run this import command to check if the packages were installed correctly
+python -c "import matplotlib, numpy, pandas, scipy, sklearn, joblib"
+```
+- Linux
 ```bash
 sudo apt install python3-venv
 python3 -m venv venv
@@ -47,7 +63,7 @@ python -c "import matplotlib, numpy, pandas, scipy, sklearn, joblib"
 ### 5. Run
 ```bash
 cd food_project/code
-python3 food_project.py
+python food_project_2.py
 ```
 
 ---
@@ -62,6 +78,8 @@ housing_project/   Housing project from "Hands-On Machine Learning" by Aurélien
 img/               Visualization images generated using Matplotlib.
 models/            Trained machine learning models.
 venv/              Python virtual environment for dependency management.
+.gitignore         Files and folders to be ignored.
+README.md          Notes.
 ```
 
 ---
