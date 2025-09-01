@@ -66,6 +66,30 @@ cd food_project/code
 python food_project_2.py
 ```
 
+# Notes
+
+## Run Books
+
+### 1. Dependencies
+- [Docker](https://docs.docker.com/desktop/setup/install/windows-install/)
+- [handson-ml3](https://github.com/ageron/handson-ml3)
+
+### 2. Setup
+```bash
+git clone https://github.com/ageron/handson-ml3.git
+cd .../handson-ml3/docker
+docker-compose build
+docker images
+
+```
+
+### 3.  Run
+```bash
+cd .../handson-ml3/docker
+docker-compose up
+## open the URL on the browser
+```
+
 # Bibliography
 
 - [Hands on Machine Learning](https://github.com/ageron/handson-ml3)
