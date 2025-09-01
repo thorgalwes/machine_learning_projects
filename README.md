@@ -4,17 +4,21 @@ This repository contains machine learning projects that explore and analyze data
 
 ---
 
-## Food Project
-
-Regression task to predict the protein values of thousands of food items based on major food nutrient values: carbohydrate, energy, water, fat and nitrogen.
-
-The datasets were acquired from the U.S Department of Agriculture: fdc.nal.usda.gov/download-datasets
-
 ## Housing Project
+
+<img src="housing_project/housing_project.png">
 
 Regression task, from the book "Hands on Machine Learning", to predict the median house price values of thousands of districts from the state of California, USA 1990.
 
 The dataset was acquired from the author of the book: raw.githubusercontent.com/ageron/handson-ml/master/datasets/housing/housing.tgz
+
+## Food Project
+
+<img src="food_project/food_project_2.png">
+
+Regression task to predict the protein values of thousands of food items based on major food nutrient values: carbohydrate, energy, water, fat and nitrogen.
+
+The datasets were acquired from the U.S Department of Agriculture: fdc.nal.usda.gov/download-datasets
 
 ---
 
