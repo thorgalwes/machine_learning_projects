@@ -2,8 +2,6 @@
 
 Repository to study ML.
 
----
-
 ## Housing Project
 
 <img src="housing_project/housing_project.png">
@@ -23,8 +21,6 @@ Regression task to predict the protein values of thousands of food items based o
 The datasets were acquired from the U.S Department of Agriculture: fdc.nal.usda.gov/download-datasets
 
 The code is located on  ```machine_learning_projects/food_project/code/food_project.py```
-
----
 
 # Environment Setup
 
@@ -70,8 +66,6 @@ cd food_project/code
 python food_project_2.py
 ```
 
----
-
 # Bibliography
 
 - [Hands on Machine Learning](https://github.com/ageron/handson-ml3)
@@ -89,5 +83,3 @@ venv/              Python virtual environment for dependency management.
 .gitignore         Files and folders to be ignored.
 README.md          Notes.
 ```
-
----
