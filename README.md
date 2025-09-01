@@ -12,7 +12,7 @@ Regression task, from the book "Hands on Machine Learning", to predict the media
 
 The dataset was acquired from the author of the book: raw.githubusercontent.com/ageron/handson-ml/master/datasets/housing/housing.tgz
 
-The code is located on  ```machine_learning_projects/housing_project/code/housing_data.py```.
+The code is located on  ```machine_learning_projects/housing_project/code/housing_data.py```
 
 ## Food Project
 
@@ -22,7 +22,7 @@ Regression task to predict the protein values of thousands of food items based o
 
 The datasets were acquired from the U.S Department of Agriculture: fdc.nal.usda.gov/download-datasets
 
-The code is located on  ```machine_learning_projects/food_project/code/food_project.py```.
+The code is located on  ```machine_learning_projects/food_project/code/food_project.py```
 
 ---
 
