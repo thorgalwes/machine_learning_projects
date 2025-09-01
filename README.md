@@ -45,17 +45,14 @@ cd machine_learning_projects
 ### 4. Create and Activate a Virtual Environment and Install Python Packages
 - Windows
 ```bash
-# Create a virtual environment named 'venv'
+# Create a virtual environment
 python -m venv venv
 
 # Activate the virtual environment
 venv\Scripts\activate.bat
 
-# Install the specified packages
+# Install packages
 pip install matplotlib numpy pandas scipy scikit-learn joblib
-
-# Run this import command to check if the packages were installed correctly
-python -c "import matplotlib, numpy, pandas, scipy, sklearn, joblib"
 ```
 - Linux
 ```bash
@@ -65,7 +62,6 @@ source venv/bin/activate
 
 sudo apt install python3-pip
 python3 -m pip install matplotlib numpy pandas scipy scikit-learn joblib
-python -c "import matplotlib, numpy, pandas, scipy, sklearn, joblib"
 ```
 
 ### 5. Run
