@@ -30,7 +30,7 @@ The code is located on  ```machine_learning_projects/food_project/code/food_proj
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/thorgalwes/machine_learning_projects.git
+git clone https://github.com/weslleyskah/machine_learning_projects.git
 ```
 
 ### 3. Navigate to the Repository
